@@ -1,0 +1,1 @@
+# LegalEase AI core package.
